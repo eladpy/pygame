@@ -1,2 +1,2 @@
-def pr1():
+def pr():
     print(f'hello')
